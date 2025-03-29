@@ -1,0 +1,15 @@
+Pseudocode for Store Checkout
+
+START
+1. Display total amount
+2. Ask user for payment method (Cash/Card)
+3. IF payment method is Cash:
+      - Accept cash input
+      - Calculate change if necessary
+      - Give receipt
+4. ELSE IF payment method is Card:
+      - Ask for card details
+      - Process payment
+      - Give receipt
+5. Thank customer
+END

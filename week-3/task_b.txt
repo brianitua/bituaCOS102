@@ -1,0 +1,12 @@
+Flowchart for Typical Weekday Morning Routine
+
+1. Start
+2. Wake up
+3. Brush teeth
+4. Take a shower
+5. Get dressed
+6. Eat breakfast
+7. Leave for work/school
+8. End
+
+You can create this flowchart with simple steps connected sequentially.

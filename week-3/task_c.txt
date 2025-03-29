@@ -1,0 +1,26 @@
+Algorithm to Swap Ages
+
+Pseudocode:
+START
+1. Input name1, age1
+2. Input name2, age2
+3. Swap age1 and age2
+4. Print name1 with new age
+5. Print name2 with new age
+END
+
+Python Implementation:
+----------------------
+# Get input from user
+name1 = input("Enter first name: ")
+age1 = int(input(f"Enter {name1}'s age: "))
+
+name2 = input("Enter second name: ")
+age2 = int(input(f"Enter {name2}'s age: "))
+
+# Swapping ages
+age1, age2 = age2, age1
+
+# Display output
+print(f"{name1} is now {age1} years old.")
+print(f"{name2} is now {age2} years old.")
